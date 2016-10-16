@@ -1,0 +1,2 @@
+"GROUP_CONCAT(CONCAT(""'"",COLUMN_NAME,""'""))"
+"'answer_id','user_id','question_id','choice','confidence','time','receivedTime','answerTime'"
