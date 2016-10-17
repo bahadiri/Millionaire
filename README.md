@@ -105,5 +105,5 @@ A sample import statement should work as
 - In a DOS based system: 
 mysql.exe --protocol=tcp --host=127.0.0.1 --user=user --port=3306 --default-character-set=utf8 --comments < "C:\\SQLDump\\millionaire.sql"
 - In Linux based system: 
-mysql.exe --protocol=tcp --host=127.0.0.1 --user=user --port=3306 --default-character-set=utf8 --comments < "/tmp/SQLDump/millionaire.sql"
+mysql --protocol=tcp --host=127.0.0.1 --user=user --port=3306 --default-character-set=utf8 --comments < "/tmp/SQLDump/millionaire.sql"
 
