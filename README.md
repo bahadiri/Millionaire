@@ -57,7 +57,7 @@ Following 3 tables are holding information about questions shown on TV live and 
 - choiceB: Text of second choice in Turkish.	
 - choiceC: Text of third choice in Turkish.
 - choiceD: Text of fourth choice in Turkish.
-- correct_choice: Letter for the correct choice:	
+- correct_choice: Letter for the correct choice.	
 - program_id: The foreign key from the Program table that identifies the program the question has appeared in.
 
 ### Answer:
