@@ -1,5 +1,5 @@
 # Introduction
-In order to develop effective crowdsourcing aggregation methods for multiple choice question answering(MCQA) and evaluate them empirically, we developed and deployed a crowdsourced system for playing the “Who wants to be a millionaire?” quiz show. This repository inludes our dataset in csv and sql formats. Note that, as question and answer texts are originally in Turkish you should use UTF8 format at all times to avoid encoding problems.
+In order to develop effective crowdsourcing aggregation methods for multiple choice question answering(MCQA) and evaluate them empirically, we developed and deployed a crowdsourced system for playing the “Who wants to be a millionaire?” quiz show. This repository includes our dataset in csv and sql formats. Note that, as question and answer texts are originally in Turkish you should use UTF8 format at all times to avoid encoding problems.
 
 # Citation
 Please cite this publication http://research.microsoft.com/en-us/um/beijing/events/ms_ipsn13/papers/aydin.pdf 
