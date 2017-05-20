@@ -6,17 +6,17 @@ Please cite this publication http://onlinelibrary.wiley.com/doi/10.1002/cpe.4168
 
 Sample citation formats:
 - Harvard
-Aydin, B.I., Yilmaz, Y.S., Bulut, M.F. and Demirbas, M., Crowdreply: A crowdsourced multiple choice question answering system. In ACM/IEEE IPSN (Vol. 13).
+Aydin, B.I., Yilmaz, Y.S. and Demirbas, M., A crowdsourced “Who wants to be a millionaire?” player. Concurrency and Computation: Practice and Experience.
 
 - MLA
-Aydin, Bahadir Ismail, et al. "Crowdreply: A crowdsourced multiple choice question answering system." ACM/IEEE IPSN. Vol. 13.
+Aydin, Bahadir Ismail, Yavuz Selim Yilmaz, and Murat Demirbas. "A crowdsourced “Who wants to be a millionaire?” player." Concurrency and Computation: Practice and Experience.
 
 - BibTex entry
-@inproceedings{aydin13crowdreply,
-  title={Crowdreply: A crowdsourced multiple choice question answering system},
-  author={Aydin, Bahadir Ismail and Yilmaz, Yavuz Selim and Bulut, Muhammed Fatih and Demirbas, Murat},
-  booktitle={ACM/IEEE IPSN},
-  volume={13}
+@article{aydincrowdsourced,
+  title={A crowdsourced “Who wants to be a millionaire?” player},
+  author={Aydin, Bahadir Ismail and Yilmaz, Yavuz Selim and Demirbas, Murat},
+  journal={Concurrency and Computation: Practice and Experience},
+  publisher={Wiley Online Library}
 }
 
 # Data
