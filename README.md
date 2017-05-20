@@ -6,17 +6,19 @@ Please cite this publication http://onlinelibrary.wiley.com/doi/10.1002/cpe.4168
 
 Sample citation formats:
 - Harvard
-Aydin, B.I., Yilmaz, Y.S. and Demirbas, M., A crowdsourced “Who wants to be a millionaire?” player. Concurrency and Computation: Practice and Experience.
-
-- MLA
-Aydin, Bahadir Ismail, Yavuz Selim Yilmaz, and Murat Demirbas. "A crowdsourced “Who wants to be a millionaire?” player." Concurrency and Computation: Practice and Experience.
+Aydin BI, Yilmaz YS, Demirbas M. A crowdsourced “Who wants to be a millionaire?” player. Concurrency Computat.: Pract. Exper. 2017;e4168. https://doi.org/10.1002/cpe.4168
 
 - BibTex entry
-@article{aydincrowdsourced,
-  title={A crowdsourced “Who wants to be a millionaire?” player},
-  author={Aydin, Bahadir Ismail and Yilmaz, Yavuz Selim and Demirbas, Murat},
-  journal={Concurrency and Computation: Practice and Experience},
-  publisher={Wiley Online Library}
+@article {CPE:CPE4168,
+  author = {Aydin, Bahadir Ismail and Yilmaz, Yavuz Selim and Demirbas, Murat},
+  title = {A crowdsourced “Who wants to be a millionaire?” player},
+  journal = {Concurrency and Computation: Practice and Experience},
+  issn = {1532-0634},
+  url = {http://dx.doi.org/10.1002/cpe.4168},
+  doi = {10.1002/cpe.4168},
+  pages = {e4168--n/a},
+  keywords = {crowdsourcing, multiple-choicem, question answering},
+  note = {e4168 cpe.4168},
 }
 
 # Data
