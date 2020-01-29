@@ -67,7 +67,7 @@ Following 3 tables are holding information about questions shown on TV live and 
 - user_id: The foreign key from the User table.
 - question_id: The foreign key from the Question table.
 - choice: The choice of the user who is identified by user_id for the question which is identified by question_id.
-- confidence: The sureness level of the user while answering. Don't mix it with statistical confidence.
+- confidence: The sureness level of the user while answering. Don't mix it with statistical confidence. Note that, the confidence labels "certain", "guessing" and "no idea" are mapped to 1, 2 and 3 respectively. 
 - time: Server timestamp of the answer arrival. Recommended to ignore.
 - receivedTime: Timestamp recorded on Android device at the time user sees the question. 
 - answerTime: Timestamp recorded on Andorid device at the time user answers. 
